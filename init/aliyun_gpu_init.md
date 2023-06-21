@@ -49,6 +49,9 @@ useradd -r -m -G root cuijinlai
          3. yum install pango-devel
          4. yum install cairo-devel
 5. [kohya_ss](../env/kohya_ss.md)
+6. [cuda](../env/cuda.md)
+7. [cudnn](../env/cudnn.md)
+8. [tensorrt](../env/tensorrt.md)
 
 
 ### 资料
